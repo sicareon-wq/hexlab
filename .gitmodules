@@ -1,9 +1,0 @@
-[submodule "skills/caveman"]
-	path = skills/caveman
-	url = https://github.com/JuliusBrussee/caveman
-[submodule "skills/ponytail"]
-	path = skills/ponytail
-	url = https://github.com/DietrichGebert/ponytail
-[submodule "skills/superpowers"]
-	path = skills/superpowers
-	url = https://github.com/obra/superpowers
